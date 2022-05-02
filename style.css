@@ -1,0 +1,57 @@
+span {
+    color: blue;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text {
+    color: rgb(37, 131, 131);
+    font-size: 15px;
+}
+
+#textarea {
+    color: rgb(33, 56, 26);
+    font-size: 25px;
+}
+
+ul li a {
+    color: rgb(46, 1, 1);
+}
+
+nav+p {
+    color: blueviolet;
+    font-size: 35px;
+}
+
+p~b {
+    color: rgb(139, 141, 0);
+    font-size: 8px;
+}
+
+.one,
+.two,
+.three {
+    color: rgb(23, 0, 151);
+    font-size: 30px;
+}
+
+footer a {
+    color: rgb(134, 7, 102);
+    font-size: 50px;
+}
+
+header h1 {
+    color: rgb(12, 46, 12);
+}
+
+h2 {
+    font-size: 33px;
+    color: yellow;
+}
+
+.lost p {
+    color: chocolate;
+    font-size: 50px;
+}
